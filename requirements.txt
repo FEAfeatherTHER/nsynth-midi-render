@@ -1,0 +1,6 @@
+mido
+numpy
+pandas
+pretty_midi
+pyarrow
+soundfile
