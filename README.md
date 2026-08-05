@@ -3,10 +3,7 @@
 Render one single-instrument MIDI file with one NSynth timbre parquet.
 
 Download the reorganized NSynth dataset:
-
-```markdown
 [Google Drive](https://drive.google.com/file/d/1brpyV7H3Gek4zj5NosF5pJNXw_q7Kqey/view?usp=sharing)
-```
 
 ## Python API
 
